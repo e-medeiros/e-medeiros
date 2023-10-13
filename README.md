@@ -17,18 +17,6 @@ I'm a Full Stack Developer from Fortaleza CE 🇧🇷
 </p>
 
 <p>
-  <a href="https://www.w3.org/html/">
-    <img src="https://skillicons.dev/icons?i=html" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img src="https://skillicons.dev/icons?i=css" width="60" height="60"/>
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60"/>
-  </a>
-</p>
-
-<p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" width="60" height="60"/>
   </a>
@@ -40,6 +28,9 @@ I'm a Full Stack Developer from Fortaleza CE 🇧🇷
   </a>
   <a href="https://react.dev/">
     <img src="https://skillicons.dev/icons?i=react" width="60" height="60"/>
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60"/>
   </a>
 </p>
 <p>
