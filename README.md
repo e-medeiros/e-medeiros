@@ -1,6 +1,4 @@
-# About Me ✨ Emanuel Medeiros ✨
 Hello there 👋 welcome to my GitHub profile!
-
 I'm a Full Stack Developer from Fortaleza CE 🇧🇷
 
 ## 🔠 Languages & 🛠️ Tools
