@@ -110,6 +110,12 @@ I'm a Full Stack Developer from Fortaleza CE 🇧🇷
   </a>
 </p>
 <!--
+## 🔥Statistics
+[![](https://github-readme-stats.vercel.app/api?username=e-medeiros\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-medeiros\&layout=compact\&theme=dark)
+
+<!--
 <p>
   <a href="https://dart.dev/">
     <img src="https://skillicons.dev/icons?i=dart" width="60" height="60"/>
